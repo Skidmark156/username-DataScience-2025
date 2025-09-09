@@ -39,7 +39,7 @@ print("John Doe - Favorite number: 7")
 ### ✏️ Task: URL Check
 
 Paste the link to your GitHub notebook here:  
-`Link:` https://github.com/Skidmark156/DataScience-2025/blob/main/Worksheet01.ipynb
+`Link:` https://github.com/Skidmark156/DataScience-2025/blob/main/Assignments/01-Getting_Started/worksheet.md
 ---
 
 ## 📊 Section 3: Python Basics
