@@ -7,7 +7,7 @@
 ```python
 type(True)
 ```
-
+<class 'bool'>
 ---
 
 ### 2. What will the following print?
@@ -17,12 +17,12 @@ x = 7
 print(x >= 7 and x < 10)
 ```
 
-Answer: __________
+Answer: True
 
 ---
 
 ### 3. What does `not` do in a boolean expression?
-
+It reverses the truth value. 
 ---
 
 ### 4. Fill in the blank to check for inequality:
@@ -31,7 +31,8 @@ Answer: __________
 if score ___ 100:
     print("Perfect score!")
 ```
-
+!=
 ---
 
 ### 5. What keyword starts a conditional chain after an `if` block?
+elif
